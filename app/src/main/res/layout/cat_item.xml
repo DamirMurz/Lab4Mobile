@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://tools.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/menu_tb"
+    android:layout_marginStart="@dimen/S_merge"
+    android:layout_marginTop="@dimen/S_merge"
+    android:layout_marginEnd="@dimen/S_merge"
+    android:layout_marginBottom="@dimen/S_merge"
+    android:clickable="true"
+    android:focusable="true"
+    android:foreground="?attr/selectableItemBackground"
+    app:cardCornerRadius="@dimen/M_merge">
+
+    <TextView
+        android:id="@+id/nameCatText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textSize="@dimen/text_LL"
+        tools:text="Category Name" />
+
+</androidx.cardview.widget.CardView>
