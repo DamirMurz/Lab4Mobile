@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="menu_tb">130dp</dimen>
+    <dimen name="menu_tb_2">140dp</dimen>
+    <dimen name="menu_n">250dp</dimen>
+    <dimen name="LL_merge">240dp</dimen>
+    <dimen name="L_merge">160dp</dimen>
+    <dimen name="M_merge">40dp</dimen>
+    <dimen name="S_merge">16dp</dimen>
+    <dimen name="image_size">600dp</dimen>
+    <dimen name="textSizeLand">600dp</dimen>
+    <dimen name="landImage">500dp</dimen>
+
+
+    <dimen name="text_L">25sp</dimen>
+    <dimen name="text_S">20sp</dimen>
+    <dimen name="text_LL">33sp</dimen>
+    <dimen name="text_SS">18sp</dimen>
+</resources>

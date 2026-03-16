@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Город</string>
+    <string name="main">Главная</string>
+    <string name="recomendation">Рекомендации</string>
+    <string name="about_title">Ижевск: Вечерний гид</string>
+    <string name="about_description">
+    Гид по Ижевску: бары, кино и театры. Быстрый поиск лучших мест для вашего отдыха.
+</string>
+
+    <string name="app_version">Версия: 1.0.0</string>
+    <string name="developer_info">Разработчик: Мурзахметов Дамир\nСтудент группы Б23-191-3</string>
+    <!-- Категории -->
+    <string name="welcome_title">Добро пожаловать в Ижевск!</string>
+    <string name="city_description">Оружейная столица России, город трудовой славы и родина легендарного автомата Калашникова.</string>
+
+    <string name="cat_bars">Бары и пабы</string>
+    <string name="cat_cinemas">Кинотеатры</string>
+    <string name="cat_theatres">Театры</string>
+
+    <string name="Home">Домой</string>
+    <string name="Settings">Настройки</string>
+    <string name="Ru_button">Русский язык</string>
+    <string name="En_button">Английский язык</string>
+    <string name="Theme">Переключить тему</string>
+    <string name="Categories">Категории</string>
+    <string name="About">О приложении</string>
+    <!-- БАРЫ -->
+    <string name="place_ronny_name">Ронни, бургер-клуб</string>
+    <string name="place_ronny_short">Бургер-клуб с авторскими бургерами, коктейлями и кальянами.</string>
+    <string name="place_ronny_long">Расположен по адресу Клубная улица, 24. Заведение известно оригинальным меню с необычными названиями блюд, вкусными бургерами вроде \"Блади Вуди\", пивными коктейлями. Подходит для компаний до 70–100 мест.</string>
+
+    <string name="place_archie_name">Дядя Арчи, бар</string>
+    <string name="place_archie_short">Пивной бар с американской кухней и закуской, средний чек 400 ₽.</string>
+    <string name="place_archie_long">Адреса: Клубная улица, 47а или Пушкинская улица, 268Г. Место для встреч с друзьями за пивом, английским завтраком, том-ямом, картофелем-фри и блюдами на гриле. Работает допоздна (до 02:00), до 100 мест.</string>
+
+    <string name="place_bolivar_name">Боливар двоих не выдержит, бар</string>
+    <string name="place_bolivar_short">Бар с американской, немецкой и русской кухней.</string>
+    <string name="place_bolivar_long">Расположен по адресу Бородина, 2а. Работает допоздна, предлагает напитки и блюда в международном стиле, подходит для вечернего отдыха.</string>
+
+    <string name="place_jupiter_name">Юпитер 5, паб</string>
+    <string name="place_jupiter_short">Паб с мексиканской кухней.</string>
+    <string name="place_jupiter_long">Адрес: улица Свободы, 173. Есть заказ столиков, винная карта, спортивные трансляции, танцпол, до 50–100 мест. Меню включает супы, буррито, пиво, коктейли и закуски; живые концерты по выходным.</string>
+
+    <!-- КИНОТЕАТРЫ -->
+    <string name="place_almaz_name">Алмаз Синема Матрица</string>
+    <string name="place_almaz_short">Семейный кинотеатр с мягкими креслами и доступными ценами.</string>
+    <string name="place_almaz_long">Адрес: ул. Баранова, 87, молл «Матрица», 3 этаж. Мультиплекс с залами для групп, диванчиками в VIP, местами для маломобильных; работает 10:00–03:00, бесплатная парковка.</string>
+
+    <string name="place_sigma_name">Империя грез (Сигма)</string>
+    <string name="place_sigma_short">Современный 5-зальный мультиплекс с 3D.</string>
+    <string name="place_sigma_long">Адрес: Широкий пер., 53, ТЦ «Сигма». Оборудование JBL 7.1, цифровые проекторы, эргономичные кресла; кафе, велопарковка, скидки; работает 10:00–03:00.</string>
+
+    <string name="place_petrovsky_name">Синема Парк</string>
+    <string name="place_petrovsky_short">6-зальный кинотеатр в ТРК Петровский.</string>
+    <string name="place_petrovsky_long">Адрес: ул. им. Петрова, 29, ТРК Петровский. Большой экран 12x5 м в 4-м зале (223 места), доступ для инвалидов, парковка 1000 мест; современные технологии.</string>
+
+    <string name="place_russia_name">Кинотеатр Россия</string>
+    <string name="place_russia_short">Семейный кинотеатр с цифровым оборудованием.</string>
+    <string name="place_russia_long">Адрес: ул. Карла Маркса, 242 (Центральная площадь). Оснащен Christie и Dolby Digital, показывает блокбастеры; исторический, с 80-х годов.</string>
+
+    <!-- ТЕАТРЫ -->
+    <string name="place_drama_name">Русский Драматический театр Удмуртии</string>
+    <string name="place_drama_short">Драматический театр с современным зданием.</string>
+    <string name="place_drama_long">Адрес: ул. Максима Горького, 71. Открыт в 1935 году, предлагает высокохудожественные спектакли, концерты; стабильная труппа, жанровое разнообразие.</string>
+
+    <string name="place_opera_name">Театр оперы и балета им. Чайковского</string>
+    <string name="place_opera_short">Театр оперы и балета на 830 мест.</string>
+    <string name="place_opera_long">Адрес: ул. Пушкинская, 221. Репертуар: классика Чайковского («Лебединое озеро», «Евгений Онегин»), Верди, Адана; оперетты, мюзиклы; с 1984 в новом здании.</string>
+
+    <string name="place_puppets_name">Государственный театр кукол УР</string>
+    <string name="place_puppets_short">Театр кукол для детей и взрослых.</string>
+    <string name="place_puppets_long">Адрес: ул. Ломоносова, 9 (бульвар Гоголя). С 1935 года, сказочное здание с 1980; спектакли для всех возрастов, фестивали; ложа, места для детей и инвалидов.</string>
+
+    <string name="place_young_name">Муниципальный театр «Молодой человек»</string>
+    <string name="place_young_short">Экспериментальный театр с 1992 года.</string>
+    <string name="place_young_long">Адрес: ул. Милиционная. Спектакли по классике и современным пьесам для взрослых/детей; награды, социальные темы. Находится напротив Октябрьского сквера.</string>
+</resources>

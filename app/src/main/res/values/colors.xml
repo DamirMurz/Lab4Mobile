@@ -2,4 +2,21 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="grey_l">#D7D7D7</color>
+    <color name="grey">#525252</color>
+
+    <color name="primary_light">#6750A4</color>
+    <color name="primary_dark">#D0BCFF</color>
+
+    <!-- Фон -->
+    <color name="background_light">#FDFBFF</color>
+    <color name="background_dark">#1C1B1F</color>
+
+    <!-- Панели (Toolbar, BottomNav) -->
+    <color name="surface_light">#E7E0EC</color>
+    <color name="surface_dark">#49454F</color>
+
+    <!-- Текст -->
+    <color name="text_light">#1C1B1F</color>
+    <color name="text_dark">#E6E1E5</color>
 </resources>

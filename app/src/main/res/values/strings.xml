@@ -1,3 +1,79 @@
 <resources>
-    <string name="app_name">Lab4</string>
+    <string name="app_name">City</string>
+    <string name="main">Main</string>
+    <string name="recomendation">Recommendations</string>
+
+    <string name="Home">Home</string>
+    <string name="Settings">Settings</string>
+    <string name="Ru_button">Russion language</string>
+    <string name="En_button">English language</string>
+    <string name="Theme">Switch theme</string>
+    <string name="Categories">Categoties</string>
+    <string name="About">About</string>
+
+    <string name="about_title">Izhevsk: Evening Guide</string>
+    <string name="about_description">
+    Izhevsk guide: bars, cinemas and theaters. Find your perfect spot to relax quickly and easily.
+</string>
+
+    <string name="app_version">Version: 1.0.0</string>
+    <string name="developer_info">Developer: Damir Murzakhmetov\nStudent of group B23-191-3</string>
+
+    <string name="welcome_title">Welcome to Izhevsk!</string>
+    <string name="city_description">The armory capital of Russia, a city of labor glory and the birthplace of the legendary Kalashnikov rifle.</string>
+    <!-- Categories -->
+    <string name="cat_bars">Bars &amp; Pubs</string>
+    <string name="cat_cinemas">Cinemas</string>
+    <string name="cat_theatres">Theatres</string>
+
+    <!-- BARS -->
+    <string name="place_ronny_name">Ronny Burger Club</string>
+    <string name="place_ronny_short">Burger club with signature burgers, cocktails, and hookahs.</string>
+    <string name="place_ronny_long">Located at Clubnaya St, 24. Known for its original menu with unusual dish names, tasty burgers like \"Bloody Woody\", beer cocktails, and board games. Suitable for groups of 70–100 people, delivery available.</string>
+
+    <string name="place_archie_name">Uncle Archie Bar</string>
+    <string name="place_archie_short">Beer bar with American cuisine and snacks, average check 400 RUB.</string>
+    <string name="place_archie_long">Addresses: Clubnaya St, 47a or Pushkinskaya St, 268G. A place to meet friends for beer, English breakfast, Tom Yum, fries, and grilled dishes. Open late (until 02:00), up to 100 seats.</string>
+
+    <string name="place_bolivar_name">Bolivar for Two Bar</string>
+    <string name="place_bolivar_short">Bar with American, German, and Russian cuisine.</string>
+    <string name="place_bolivar_long">Located at Borodina St, 2a. Open late, offering international style drinks and dishes, perfect for evening relaxation.</string>
+
+    <string name="place_jupiter_name">Jupiter 5 Pub</string>
+    <string name="place_jupiter_short">Pub with Mexican cuisine.</string>
+    <string name="place_jupiter_long">Address: Svobody St, 173. Table booking, wine list, sports broadcasts, dance floor, 50–100 seats. Menu includes soups, burritos, beer, cocktails, and snacks; live concerts on weekends.</string>
+
+    <!-- CINEMAS -->
+    <string name="place_almaz_name">Almaz Cinema Matrix</string>
+    <string name="place_almaz_short">Family cinema with soft seats and affordable prices.</string>
+    <string name="place_almaz_long">Address: Baranova St, 87, Matrix Mall, 3rd floor. Multiplex with group halls, VIP sofas, and accessible seats; open 10:00–03:00, free parking.</string>
+
+    <string name="place_sigma_name">Empire of Dreams (Sigma)</string>
+    <string name="place_sigma_short">Modern 5-screen multiplex with 3D.</string>
+    <string name="place_sigma_long">Address: Shiroky lane, 53, Sigma Mall. JBL 7.1 sound, digital projectors, ergonomic seats; cafe, bike parking, discounts; open 10:00–03:00.</string>
+
+    <string name="place_petrovsky_name">Cinema Park</string>
+    <string name="place_petrovsky_short">6-screen cinema in Petrovsky Mall.</string>
+    <string name="place_petrovsky_long">Address: Petrova St, 29, Petrovsky Mall. Large 12x5 m screen in Hall 4 (223 seats), disabled access, 1000 parking spaces; modern technologies.</string>
+
+    <string name="place_russia_name">Russia Cinema</string>
+    <string name="place_russia_short">Family cinema with digital equipment.</string>
+    <string name="place_russia_long">Address: Karla Marksa St, 242 (Central Square). Equipped with Christie and Dolby Digital, shows blockbusters; historic venue since the 80s.</string>
+
+    <!-- THEATRES -->
+    <string name="place_drama_name">Russian Dramatic Theatre of Udmurtia</string>
+    <string name="place_drama_short">Dramatic theatre with a modern building.</string>
+    <string name="place_drama_long">Address: Maksima Gorkogo St, 71. Opened in 1935, offers high-art performances and concerts; stable troupe, variety of genres.</string>
+
+    <string name="place_opera_name">State Opera and Ballet Theatre</string>
+    <string name="place_opera_short">Opera and ballet theatre with 830 seats.</string>
+    <string name="place_opera_long">Address: Pushkinskaya St, 221. Repertoire: Tchaikovsky classics (Swan Lake, Eugene Onegin), Verdi, Adam; operettas, musicals; in the new building since 1984.</string>
+
+    <string name="place_puppets_name">State Puppet Theatre of UR</string>
+    <string name="place_puppets_short">Puppet theatre for children and adults.</string>
+    <string name="place_puppets_long">Address: Lomonosova St, 9 (Gogol Boulevard). Since 1935, fairytale building since 1980; performances for all ages, festivals; boxes, seats for children and disabled.</string>
+
+    <string name="place_young_name">Municipal Theatre \"Young Man\"</string>
+    <string name="place_young_short">Experimental theatre since 1992.</string>
+    <string name="place_young_long">Address: Militsionnaya St. Performances based on classics and modern plays for adults/children; awards, social themes. Located opposite Oktyabrsky Square.</string>
 </resources>

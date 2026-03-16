@@ -1,9 +1,21 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
     <style name="Base.Theme.Lab4" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/primary_light</item>
+        <item name="android:windowBackground">@color/background_light</item>
+
+
+        <item name="colorSurface">@color/surface_light</item>
+        <item name="colorOnSurface">@color/text_light</item>
+    </style>
+    <style name="BottomNavTextStyle">
+        <item name="android:textSize">@dimen/text_SS</item>
     </style>
 
+    <style name="NavDrawerTextStyle">
+        <item name="android:textSize">@dimen/text_S</item>
+    </style>
+    <style name="ToolbarTitleText">
+        <item name="android:textSize">@dimen/text_S</item>
+    </style>
     <style name="Theme.Lab4" parent="Base.Theme.Lab4" />
 </resources>
